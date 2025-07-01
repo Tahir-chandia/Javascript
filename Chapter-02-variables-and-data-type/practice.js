@@ -31,14 +31,12 @@ let name;
 
 //dynamically typed language
 
-
-
 //  Q9: What will be the output of typeof null?
 // object because it was a bug of javascript
 
 // Q10: What happens when you add a number and a string in JavaScript?
 //it will concatinate them
- 
+
 //Q11: What is type coercion? Give an example.
 // when we join two different data type variables it gives one of that data type
 
@@ -57,7 +55,10 @@ let name;
 //2
 
 //  Q14: What is NaN in JavaScript, and how do you check if a value is NaN?
-//pass
+//NaN means not a number e.g
+
+// console.log(0/0);
+// console.log(parseInt("MLJK"));
 
 //  Q15: How do you check the type of a variable in JavaScript?
 
